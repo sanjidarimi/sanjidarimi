@@ -1,6 +1,6 @@
 <div align="center">
 
-![Wave divider](https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&width=1200&height=400&amplitude=25&frequency=3&layers=3&color_top=db24cc&color_bottom=b4082b&opacity=1&flip=true&gradient=true&mirror=true&animate=true&speed=6&text=sanjida+Akter+Rimi&text_bottom=Frontend+Developer+%7C+Tech+Enthusiast&text_color=ffffff&text_bottom_color=0bd8f4&text_size=28&text_bottom_size=22&text_style=italic&text_stroke_color=000000&text_stroke_width=0&text_scale_x=100&text_scale_y=100&text_x=50&text_y=45&text_gap=26&text_align=middle)
+![Wave divider](https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&width=1200&height=180&amplitude=20&frequency=4&layers=3&color_top=d923bf&color_bottom=%23bb0c47&opacity=1&flip=true&gradient=true&mirror=true&animate=true&speed=6&text=Sanjida+Rimi&text_bottom=Frontend+Developer+%7C+Tech+Enthusiast&text_color=ffffff&text_bottom_color=21c7ca&text_size=60&text_bottom_size=24&text_style=bold_italic&text_stroke_color=000000&text_stroke_width=4.5&text_scale_x=100&text_scale_y=100&text_x=50&text_y=52&text_gap=40&text_align=middle)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/sanjidarimi023/)
 [![Email](https://img.shields.io/badge/Email-FF1CF7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjidarimi023@gmail.com)
