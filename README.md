@@ -43,7 +43,7 @@ I am a passionate **Web Developer** specializing in building scalable applicatio
 ## 🚀 Featured Projects
 
 
-### [APPLY_MATE](https://your-live-link.com) | Team Project
+### [APPLY_MATE](https://apply-mate-two.vercel.app) | Team Project
 **AI-Powered Job Application Management**
 - Implemented **Next Auth** for secure registration and **Zod** for robust data validation.
 - Developed a clean, responsive UI using **React**, **Tailwind CSS**, and **Shadcn/UI**.
@@ -51,7 +51,7 @@ I am a passionate **Web Developer** specializing in building scalable applicatio
 
 <br/>
 
-### [THE DAILY BULLETIN](https://your-live-link.com)
+### [THE DAILY BULLETIN](https://daily-bulletin-96f27.web.app)
 **Premium News Platform**
 - Managed role-based dashboards (Admin, Premium, User) and integrated **Stripe** payments.
 - Optimized data fetching with **TanStack Query** and visualized metrics using **Recharts**.
@@ -59,7 +59,7 @@ I am a passionate **Web Developer** specializing in building scalable applicatio
 
 <br/>
 
-### [BOOK GALAXY](https://your-live-link.com)
+### [BOOK GALAXY](https://book-galaxy-610c0.web.app)
 **Digital Library & Book Management**
 - Built with **Firebase Authentication** and **JWT-protected** private routes.
 - Features advanced CRUD operations and category-based filtering for an intuitive UX.
