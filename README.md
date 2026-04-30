@@ -87,7 +87,7 @@
 
 ## 🎓 Education & Languages
 
-- 🎓 **Diploma in Engineering (CSE)** — Kurigram Polytechnic Institute  
+- 🎓 **Diploma in Engineering (CST)** — Kurigram Polytechnic Institute  
 - 🌍 **Languages:** Bangla (Native) | English (Professional) | Hindi (Conversational)
 
 ---
