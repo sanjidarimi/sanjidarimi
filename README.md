@@ -77,7 +77,7 @@
 
  
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjidarimi&theme=dark&hide_border=true&background=0D1117&stroke=00F0FF&ring=FF1CF7&fire=FF1CF7&currStreakLabel=FF1CF7&currStreakNum=00F0FF&sideLabels=00F0FF" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjidarimi&theme=dark&hide_border=true&background=0D1117&stroke=00F0FF&ring=FF1CF7&fire=FF1CF7&currStreakLabel=FF1CF7&currStreakNum=00F0FF&sideLabels=00F0FF" width="70%" />
 
   <br />
 
